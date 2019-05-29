@@ -21,10 +21,12 @@
       <module name="netflix-eureka-naming-server" target="1.8" />
       <module name="netflix-zuul-api-gateway-server" target="1.8" />
       <module name="spring-cloud-config-server" target="1.8" />
+      <module name="Zipkin-Log-Tracing-Server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Zipkin-Log-Tracing-Server" options="-parameters" />
       <module name="currency-conversion-service" options="-parameters" />
       <module name="currency-exchange-service" options="-parameters" />
       <module name="limits-service" options="-parameters" />

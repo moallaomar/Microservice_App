@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.cloud:spring-cloud-starter-sleuth-zipkin:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-sleuth-zipkin/unknown/spring-cloud-starter-sleuth-zipkin-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-sleuth-zipkin/unknown/spring-cloud-starter-sleuth-zipkin-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-sleuth-zipkin/unknown/spring-cloud-starter-sleuth-zipkin-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
